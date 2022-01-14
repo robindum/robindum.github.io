@@ -5,7 +5,7 @@
     "picture": "https://robindum.github.io/images/robinbd.jpg",
     "email": "robinbd@hawaii.edu",
     "phone": "",
-    "website": "https://robindum.github.io",
+    "website": "https://robindum.github.io/",
     "summary": "I am currently a student pursuing a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "robindum",
-        "url": "http://github.com/robindum"
+        "url": "https://robindum.github.io/"
       },
       {
         "network": "linkedin",
