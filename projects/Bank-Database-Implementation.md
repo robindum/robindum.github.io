@@ -13,6 +13,7 @@ labels:
 summary: My final project for ICS 212 was to implement a user interface and the database functions for a bank interface in a way to utilize both C and C++.
 ---
 
+## My Database Coding Dilema 
 My ICS 212 class dealt with my very first interaction with learning C and eventually C++. Starting with Java and then working backward to C and then meeting in the middle with C++ was a very difficult time for me as each coding language was very similar but the syntax was slightly different from each other. 
 
 The homeworks of the class included using a command line terminal and getting used to being able to write source code through the command line editors and run them through the console. Learning the C coding language got me to really understand the code that I am writing, because when the code has errors in it, C does not necessarily tell you what is wrong and I had to figure out what line of my code was causing the problem.
