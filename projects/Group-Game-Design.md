@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/collab-project.png
-title: Group Game Design
+title: A Team Game
 permalink: projects/Group-Game-Design
 # All dates must be YYYY-MM-DD format!
 date: 2019-011-20
@@ -13,10 +13,8 @@ labels:
 summary: This project is a collaboration with two other college classmates to create a coherent and enjoyable game.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/main-menu.png">
-</div>
 
+## It's a Team Game
 When I thought that the cost of hubris from my own overly-ambitious eagerness to code more video games would be only my only detriment, that definitely changed the moment when I had to work in a group setting. 
 
 My final project for my ICS 111 class was to collaborate with a group of two other students and work together to plan out a video game that all of us would be working on together. Right off the bat, my mind was firing on all cylinders. There were not many limitations to this project and we were limited to our own creativity and our ability to translate that creativity into code. However, when working in a group setting, I soon learned that communication was also a key component to both creating the coding project and to get it done on time.
