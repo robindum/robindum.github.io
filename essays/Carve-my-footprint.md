@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Carve-My-Footprint
+title: Carve My Footprint
 date: 2022-01-19
 labels:
   - Javascript
   - Software Engineering
+  - Goals Reflection
 ---
 
 ## The Journey Ahead
