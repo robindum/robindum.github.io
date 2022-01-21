@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/bank-database.png
 title: Bank Database Implementation
 permalink: projects/Bank-Database-Implementation
 # All dates must be YYYY-MM-DD format!
@@ -12,10 +12,6 @@ labels:
   - Looking to Revisit
 summary: My final project for ICS 212 was to implement a user interface and the database functions for a bank interface in a way to utilize both C and C++.
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/main-menu.png">
-</div>
 
 My ICS 212 class dealt with my very first interaction with learning C and eventually C++. Starting with Java and then working backward to C and then meeting in the middle with C++ was a very difficult time for me as each coding language was very similar but the syntax was slightly different from each other. 
 
