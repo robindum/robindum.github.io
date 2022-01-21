@@ -5,7 +5,7 @@ image: images/collab-project.png
 title: A Team Game
 permalink: projects/Group-Game-Design
 # All dates must be YYYY-MM-DD format!
-date: 2019-011-20
+date: 2019-12-20
 labels:
   - Java
   - Game Design
