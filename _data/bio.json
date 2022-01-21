@@ -72,7 +72,7 @@
       "studyType": "B.S.",
       "startDate": "2019-08-01",
       "endDate": "Present",
-      "gpa": "3.5",
+      "gpa": "3.61",
       "courses": [
         "ICS 111",
         "ICS 141",
@@ -80,6 +80,13 @@
         "ICS 212",
         "ICS 241",
       ]
+    },
+    {
+      "institution": "Kauai High School, Lihue Hawaii",
+      "area": "High School",
+      "startDate": "2016-08-01",
+      "endDate": "2019-05-23",
+      "gpa": "4.0",
     }
   ],
   "work": [
