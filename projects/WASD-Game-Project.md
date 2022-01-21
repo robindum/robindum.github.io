@@ -14,7 +14,7 @@ summary: My very first project from ICS 111. The “game” utilizes object orie
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/main-menu.png">
+  <img class="ui image" src="../images/ebuild.png">
 </div>
 
 ICS 111 was my introduction into the world of coding. As someone who was not able to take any classes related to computer science all throughout my time at Kauai High School, college was my first chance to experience what it means to code. Needless to say, I was more than excited to learn and try my hand at creating something out of nothing. Once I got the basics of Java code down, our first major coding project was to create a game that focuses on one object, and how it interacts with both movable and immovable objects.
