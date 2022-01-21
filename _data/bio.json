@@ -74,6 +74,11 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
       ]
     }
   ],
@@ -88,6 +93,26 @@
         "Helped to create a wonderful environment for customers to enjoy a fine dining experience",
         "Worked with a well communicative group of workers to deliver a good experience"
       ]
+    }
+  ],
+   "awards": [
+    {
+      "title": "Little League World Series Contender",
+      "date": "2015-2016",
+      "awarder": "Little League 50-70 League Baseball World Series",
+      "summary": "For making the small island of Kauai known by winning first the state and western regional tournaments and representing in Livermore, California."
+    },
+     {
+      "title": "Little League Junior League United States Champions",
+      "date": "2015-2016",
+      "awarder": "Little League Junior League Baseball World Series",
+      "summary": "For beating Texas in Taylor Michigan to win the Little League Junior League United States Championship, and to face off against Chinese Taipei."
+    },  
+    {
+      "title": "Valedictorian",
+      "date": "2019",
+      "awarder": "Kauai High School",
+      "summary": "For graduating at the top of the class of 2019 at Kauai High School."
     }
   ],
   "references": [
