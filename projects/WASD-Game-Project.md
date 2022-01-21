@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ebuild.png
+image: images/project1.png
 title: WASD Game Project
 permalink: projects/WASD-Game-Project
 # All dates must be YYYY-MM-DD format!
