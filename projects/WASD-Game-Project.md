@@ -5,7 +5,7 @@ image: images/project1.png
 title: WASD Game Project
 permalink: projects/WASD-Game-Project
 # All dates must be YYYY-MM-DD format!
-date: 2019-011-20
+date: 2019-11-20
 labels:
   - Java
   - Game Design
