@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Group-Project.png
+image: images/collab-project.png
 title: Group Game Design
 permalink: projects/Group-Game-Design
 # All dates must be YYYY-MM-DD format!
