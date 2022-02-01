@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "gamification",
+      "name": "Gamification",
       "keywords": [
       ]
     }
@@ -52,16 +52,14 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "Git/GitHub"
       ]
     }
   ],
@@ -74,11 +72,11 @@
       "endDate": "Present",
       "gpa": "3.61",
       "courses": [
-        "ICS 111",
-        "ICS 141",
-        "ICS 211",
-        "ICS 212",
         "ICS 241",
+        "ICS 212",
+        "ICS 211",
+        "ICS 141",
+        "ICS 111"
       ]
     },
     {
@@ -86,7 +84,7 @@
       "area": "High School",
       "startDate": "2016-08-01",
       "endDate": "2019-05-23",
-      "gpa": "4.0",
+      "gpa": "4.0"
     }
   ],
   "work": [
