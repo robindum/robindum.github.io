@@ -18,3 +18,5 @@ When it comes to the general application of these skills, my only experience cur
 So far, it only feels that the projects that I have been able to do were similar to leaving my footprints in the sand along the beach side. To me, they were memorable but at this point, only I am the one who will remember my footprints in the sand. Through my classes, I want to be able to develop longer lasting projects especially in web development to leave longer lasting footprints for people to see.
 
 Currently I am excited to see how to develop faster ways to code and build softwares. My desire is to create bigger projects such as website building and maybe even be able to translate my old projects that proved to be too ambitious for me at the time into something of fruition that I am proud to show as something that I created.
+
+
