@@ -19,5 +19,5 @@ The difference in terms of website building is that learning UI frameworks feels
 ## The Semantics of Web Design
 When it came to creating a website using raw HTMl and CSS, since this was my first time working with HTML, many of these things were new to me, and so when it came to understanding HTML, it felt like learning a new language all over again. So, when it came to semantic ui as the first of many UI frameworks, it felt like even more of a tall task to remember. However, once I started to view the limits of raw HTML, there was many roundabout ways to be able to make the website look a certain way.
 
-Working more and more with semantic ui, it was very confusing at first due to the ui terms that were used, but as I slowly understood the classes and the specialized class and div styling, many aspects of regular websites began to show. It surprised me to see that while using semantic ui, the icons, menu styles, and other containers are very similar to many websites. 
+Working more and more with semantic ui, it was very confusing at first due to the ui terms that were used, but as I slowly understood the classes and the specialized class and div styling, many aspects of regular websites began to show. It surprised me to see that while using semantic ui, the icons, menu styles, and other containers are very similar to many websites.
 
