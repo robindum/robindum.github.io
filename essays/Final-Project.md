@@ -7,7 +7,6 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
 Made in collaboration with Ian Iwata.
 ##The Overview
 The problem:<br>University students often struggle with having to keep up with the common needs of school work along with their daily lives and sometimes even work lives. Grades are sometimes set off to the side, and many are left wondering if they are alone in not understanding the contents of their classes.
