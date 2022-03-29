@@ -9,18 +9,19 @@ labels:
   - Project Idea
 ---
   
-##The Overview
+<h2>The Overview</h2>
 Made in collaboration with Ian Iwata.
-###The problem:
+
+<h3>Problem:</h3>
 University students often struggle with having to keep up with the common needs of school work along with their daily lives and sometimes even work lives. Grades are sometimes set off to the side, and many are left wondering if they are alone in not understanding the contents of their classes.
 
-###The solution:
+<h3>The solution</h3>
 With the GPA Haystack, students are able to sign up to make an account and it starts to track which classes they are taking, as well as their grades for the class. Should their grade take a dive, the website offers possible tutoring options, or other members of that class to create a study group with.
 
 This allows students to not feel alone in their studies, encouraging those meet with other students in the class, offering guidance to those who need it, and helps keep a schedule to keep track of their education.
 By using GPA Haystack, they can track their grade's individually and add them together to calculate their overall GPA for the semester.
 
-##Mockup Page Ideas
+<h2>Mockup Page Ideas</h2>
 These are the possible mockup pages for this project:
 <ul>
     <li>Landing Page</li>
@@ -33,7 +34,7 @@ These are the possible mockup pages for this project:
     <li>GPA Calculator</li>
 </ul>
 
-##Use Case Ideas
+<h2>Use Case Ideas</h2>
 These use case ideas go for most pages and most users, but not all.
 <ul>
     <li>A new user goes to the landing page, signs up then logs in, goes to home page, and is prompted to setup their profile.</li>
@@ -42,7 +43,7 @@ These use case ideas go for most pages and most users, but not all.
     <li>User logs in, inputs their grades of their classes, gets to see their calculated GPA, gets access to the anonymous bell curve of the class and how much users are in the curve.</li>
 </ul>
 
-##Beyond The Basics
+<h2>Beyond The Basics</h2>
 Other than the basic functionalities, here are possible additional features:
 <ul>
     <li>A function able to program and display a student's GPA based on their class grades and credit hours.</li>
