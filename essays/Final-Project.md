@@ -15,7 +15,7 @@ Made in collaboration with Ian Iwata.
 University students often struggle with having to keep up with the common needs of school work along with their daily lives and sometimes even work lives. Grades are sometimes set off to the side, and many are left wondering if they are alone in not understanding the contents of their classes.
 
 ###The solution:
-With the GPA Haystack, students are able to sign up to make an account and it starts to track which classes they are taking, as well as their grades for the class. Should their grade take a dive, the website offers possible tutoring options, or other members of that class to create a study group with.<br>
+With the GPA Haystack, students are able to sign up to make an account and it starts to track which classes they are taking, as well as their grades for the class. Should their grade take a dive, the website offers possible tutoring options, or other members of that class to create a study group with.
 
 This allows students to not feel alone in their studies, encouraging those meet with other students in the class, offering guidance to those who need it, and helps keep a schedule to keep track of their education.
 By using GPA Haystack, they can track their grade's individually and add them together to calculate their overall GPA for the semester.
