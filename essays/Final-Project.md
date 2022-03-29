@@ -6,7 +6,9 @@ date: 2022-03-29
 labels:
   - Software Engineering
   - Meteor
+  - Project Idea
 ---
+  
 ##The Overview
 Made in collaboration with Ian Iwata.
 ###The problem:
