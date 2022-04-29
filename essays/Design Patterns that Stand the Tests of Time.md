@@ -11,6 +11,7 @@ labels:
   
 ## Struggle Once, Thank Yourself Later
 In many cases, tasks can be daunting at times. So much to the point where there is not productive part of your body and you just feel like taking the shortest route to do what you need to do. For homework, it can feel so easy to look it up on the internet. At these times it can be hard to want to deal with the struggle of sitting down for a few hours to try to comprehend the topic. Especially in the heat of the moment, anything will always seem better than doing homework.
+![](https://www.montereybayparent.com/downloads/920/download/homework%20stress.jpg?cb=cd6b3f3a2915724628621fb106c17a73)
 
 Imagine for the moment that due to your busy life of procrastinating, you forgot that an important assignment is due. I might be projecting here. Anyways, this super very important assignment is actually based on a significant part of the class, but at the moment of panic and stress, that doesn't matter. What matters is getting the assignment done, and so you look it up, or you ask a friend to do it for you. Phew, the problem is now gone. At least you thought. Now on the day of the test, you have no idea how to deal with problems similar, but the professor mentioned that it should be similar to the homework. You hold your head low in shame, because now you have to take even more time to relearn that same topic. It's a feeling all too familiar, but I've been working over the years to break this habit, and by understanding design patterns is how I'm able to curate the energy to get things down sooner, so that I can replicate results for future problems.
 
@@ -27,5 +28,7 @@ Each problem has a general premise that needs to be understood in order to solve
 ## Repetition Then, Efficiency later
 My personal anecdotes are more of a muscle memory ideal when it comes to design patterns, but the literal design patterns have been in use all throughout my software engineering class as well as in the real world. Of the design patterns specified by the Gang of Four, I can easily say that once I sat through initially learning factory design patterns and other techniques to implement a meteor application, my time spent on coding each page was cut in half more and more times when I worked on a similar problem.
 
-There are subtleties to the concept of design patterns, and although understanding it in a small scope of designing a software, I already can appreciate the generalized guidance made by my past self or others who have similar issues in order to making future problems easier. 
+![](https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL._SX395_BO1,204,203,200_.jpg)
+
+There are subtleties to the concept of design patterns, and although understanding it in a small scope of designing a software, I already can appreciate the generalized guidance made by my past self or others who have similar issues in order to making future problems easier. For the future, I definitely will keep these repeated and reusuable processes in mind for both future problems as well as when asked about it so I don't have to waste time redoing redundant work.
 
