@@ -17,6 +17,7 @@ Imagine for the moment that due to your busy life of procrastinating, you forgot
 
 ## Repetition: Design 
 ![](https://conceptsworldacademy.com/wp-content/uploads/2021/03/Design-Patterns-Certification-Training-Online.png)
+
 Design patterns are a concept first coined by Christopher Alexander, an architect who defines the term as "a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice." Although it can be translated and interpreted toward software engineering specifically, it is the broadness of the concept that makes it both versatile for different situations as well as easier to comprehend personally.
 
 In the most general sense, there are so many problems that one person might face over and over again. Conversely, there might be many people who face the same problem. By recognizing the patterns and repetition in these problems, then it is possible to create general guides to solve similar problems in the future.
