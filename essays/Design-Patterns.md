@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Designs Patterns to Save Future Problems (Kinda)
+title: Repeat, Repeat, Remember! Design Patterns
 date: 2022-04-28
 labels:
   - Javascript
