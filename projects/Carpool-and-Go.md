@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/collab-project.png
-title: A Team Game
+image: images/logov1.jpeg
+title: Carpool and Go!
 permalink: projects/Carpool-and-Go
-date: 2019-12-20
+date: 2022-5-10
 labels:
-  - Java
-  - Game Design
+  - Website Design
+  - UH Collaborative
   - Collaborative Project
 summary: A collaborative website mockup between 6 different members.
 ---
